@@ -4,5 +4,11 @@
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "proxies": [
+    {
+      "path": "/version",
+      "proxyUrl": "http://edmgold.duckdns.org:8899"
+    }
+  ]
 }
