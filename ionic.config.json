@@ -1,0 +1,8 @@
+{
+  "name": "lumiere",
+  "app_id": "fbcf0006",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
